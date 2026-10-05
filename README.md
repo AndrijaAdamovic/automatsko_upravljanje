@@ -1,1 +1,1 @@
-# automatsko_upravljanje
+# Automatsko upravljanje - neslužbena skripta
